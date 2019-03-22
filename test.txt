@@ -1,4 +1,6 @@
 
-
+## 代码冲突
 ## git1 修改 test
 git1
+## learnGit2
+git2 修改test
